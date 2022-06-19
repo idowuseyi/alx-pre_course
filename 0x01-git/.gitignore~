@@ -1,0 +1,17 @@
+# Ignore all Emacs file with extension .emacs
+.emacs
+
+# Ignore all Emacs file with extention .el
+.el
+
+# Ignore all git ignore files
+.gitignore
+
+# Ignore any git ignore folder
+/gitignore
+
+# Ignore password folders
+/password
+
+# More will be added as times goes on.
+# This will include privacy files, log files, passwords and others
